@@ -1,11 +1,26 @@
-# 90-days-of-learning
+100 Days of Learning
 
-## Day 1 - GitHub Setup
-- Created GitHub account
-- Learned what GitHub is
-- Set up profile
+## Day 1 - Python Journey Started
+ 
+Learned
 
-Goals:
-- Learn Python
-- Learn Git & GitHub
-- Build projects
+- What Python is
+- Applications of Python
+- print() function
+- Comments (#)
+- Modules and pip (basic idea)
+
+Practice
+
+- Installed Pydroid 3
+- Ran my first Python programs
+- Created a simple self-introduction program
+- Added comments in code
+
+Key Takeaway
+
+Python is beginner friendly and can be used for automation, AI, web dev, and software dev.
+
+Goal for Tomorrow
+
+Learn Variables and Data Types.
