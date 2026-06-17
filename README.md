@@ -24,3 +24,20 @@ Python is beginner friendly and can be used for automation, AI, web dev, and sof
 Goal for Tomorrow
 
 Learn Variables and Data Types.
+
+## Day 3
+
+Learned:
+- Variables
+- Data Types
+- type() function
+- Escape Sequences
+Data Types:
+- str
+- int
+- float
+- bool
+
+Practice:
+- Created programs using variables
+- Checked data types using type()
