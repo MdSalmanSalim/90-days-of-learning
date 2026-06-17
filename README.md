@@ -25,7 +25,7 @@ Goal for Tomorrow
 
 Learn Variables and Data Types.
 
-## Day 3
+## Day 2
 
 Learned:
 - Variables
