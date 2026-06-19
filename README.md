@@ -42,25 +42,21 @@ Practice:
 - Created programs using variables
 - Checked data types using type()
 
-##Day 3
+## Day 3
 
 Topic:
-
 Typecasting in Python
 
 Learned:
-
 - Converting one data type to another
 - int(), float(), str()
 - Explicit Typecasting
 - Implicit Typecasting
 
 Practice:
-
 - Converted string numbers into integers
 - Performed calculations after type conversion
 - Checked data types using type()
 
 Key Takeaway:
-
 Typecasting helps convert data into the required format for calculations and other operations.
