@@ -61,7 +61,7 @@ Practice:
 Key Takeaway:
 Typecasting helps convert data into the required format for calculations and other operations.
 
-##Day 4
+## Day 4
 
 Learned Python Strings:
 - Indexing
