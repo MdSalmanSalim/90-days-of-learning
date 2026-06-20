@@ -60,3 +60,22 @@ Practice:
 
 Key Takeaway:
 Typecasting helps convert data into the required format for calculations and other operations.
+
+##Day 4
+
+Learned Python Strings:
+- Indexing
+- Slicing
+- len()
+- String Methods
+
+Practiced:
+- upper(), lower(), replace(), strip()
+- count(), find(), startswith(), endswith()
+
+Completed ✅
+
+Tomorrow's Goal:
+- if, else, elif
+- Conditional Statements
+- Decision Making in Python
