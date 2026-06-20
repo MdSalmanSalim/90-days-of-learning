@@ -1,4 +1,4 @@
-100 Days of Learning
+90 Days of Learning
 
 ## Day 1 - Python Journey Started
  
